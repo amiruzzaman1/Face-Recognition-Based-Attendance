@@ -14,19 +14,28 @@ The Face Recognition Based Attendance System uses face recognition technology to
 - Reduction of manual paperwork
 
 # Screenshots
-
+## Admin Login
 ![1](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/b6f0a720-b4df-43ce-a378-72212741f22d)
 
+## Dashboard 
 ![2](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/e96bb078-5947-4112-9e25-b5dabcdc33c7)
 
+## Student Registration 
 ![3](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/e7183b25-8b0c-413c-8d46-7d428b6e6459)
 
 ![4](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/59c41ddc-4456-4dd6-a35a-95fdcab063a2)
 
+## Feature Extraction 
 ![5](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/a70d9c78-484c-4497-8e9f-04e533ac1078)
+
+## Training Data
 
 ![6](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/b6061684-75b2-4c1c-b51a-68e43c44c0e3)
 
+## Attendance Taking 
+
 ![7](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/9a75a983-a997-45f2-8be8-d838a3bfc1c9)
+
+## Attendance Report 
 
 ![8](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/3f043153-25a7-4f5a-a768-304d750dafc1)
