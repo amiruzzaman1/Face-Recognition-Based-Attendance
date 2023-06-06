@@ -29,4 +29,4 @@ The Face Recognition Based Attendance System uses face recognition technology to
 
 ![7](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/9a75a983-a997-45f2-8be8-d838a3bfc1c9)
 
-![8](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/30ffa8e9-99c7-4a32-b760-63ed0696ce61)
+![8](https://github.com/Amiruzzaman-anan/Face-Recognition-Based-Attendance/assets/68743925/3f043153-25a7-4f5a-a768-304d750dafc1)
